@@ -16,3 +16,6 @@ By defult only /help is exposed but it can be customsed as per required on /info
 Can also expose individual endpoints with a comma-delimited list
 /threaddump List all the threads running in ur application and useful for analyzing and profiling ur apps performance
 /mapping list all req mapping , useful for finding out what request mapping are available
+
+
+Here everything happes in application.properties file so just check that 
